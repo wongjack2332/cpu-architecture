@@ -12,6 +12,3 @@
 ## concept
 - this code is a demonstration on how the von neumann architecture of the cpu works. Edit the ram in mode 1 and execute them in mode 2
 - in execution, you will be able to choose a time delay and that will delay the execution by a lot more than what it is capable to run on.
-
-## contact
-- email: jackwong2332@gmail.com
